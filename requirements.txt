@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+confluent-kafka
+torch
+transformers
+pandas
+scikit-learn
+tqdm
+networkx==2.8.8
